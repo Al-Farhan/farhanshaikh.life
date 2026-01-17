@@ -24,7 +24,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">Hi, I'm Farhan Shaikh</p>
               <p className="grid-subtext">
-                With 1 years of experience, I have honed my skills in both frontend and backend dev, creating dyanmic and response website.
+                With years of experience, I have honed my skills in both frontend and backend dev, creating dyanmic and response website.
               </p>
             </div>
           </div>
